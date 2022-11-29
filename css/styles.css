@@ -1,0 +1,32 @@
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+body{
+    background-color: hsl(212, 45%, 89%);
+    text-align: center;
+}
+.project{
+    background-color: white;
+    font-family: 'Outfit', sans-serif;
+    width: 375px;
+    margin: 100px auto;
+    border-radius: 16px;
+}
+img{
+    width: 335px;
+    margin-top: 20px;
+    border-radius: 16px;
+}
+.heading{
+    font-weight: 700;
+    font-size: 25px;
+    padding: 10px 30px;
+    margin-bottom: 0px;
+}
+.instruction{
+    font-weight: 400;
+    font-size: 15px;
+    width: 70%;
+    margin: 0 auto;
+    padding-bottom: 40px;
+    color: hsl(220, 15%, 55%);
+}
